@@ -18,4 +18,4 @@ I put effort to provide you with this ready to use boilerplate code. I'll be tha
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+To get more help please feel free to contact me at aatif.hussain@outlook.com
