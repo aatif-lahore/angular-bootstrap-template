@@ -1,2 +1,2 @@
-# angular-bootstrap-template
-Minimal angular bootstrap starter templat. 
+# Angular Bootstrap Template
+Minimal angular bootstrap starter template. 
