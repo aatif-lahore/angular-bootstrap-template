@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "angular-bootstrap-template": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-bootstrap-template"
+    }
+  },
+  "defaultProject": "angular-bootstrap-template",
+  "cli": {
+    "analytics": false
+  }
 }
