@@ -12,6 +12,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Preview
 
+### Layout 1
+![Layout 1](https://github.com/aatifhussain/angular-bootstrap-template/blob/master/src/assets/img/layout-one.jpg)
+
+### Layout 2
+![Layout 1](https://github.com/aatifhussain/angular-bootstrap-template/blob/master/src/assets/img/layout-two.jpg)
+
+### Layout 3
+![Layout 1](https://github.com/aatifhussain/angular-bootstrap-template/blob/master/src/assets/img/layout-three.jpg)
+
+
 ## Credits
 I put effort to provide you with this ready to use boilerplate code. I'll be thankful if you give a 'star' to this repositry.
 Tweet about this template ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Faatifhussain%2Fangular-bootstrap-template)
